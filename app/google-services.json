@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "63041476684",
+    "firebase_url": "https://mood-plus.firebaseio.com",
+    "project_id": "mood-plus",
+    "storage_bucket": "mood-plus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63041476684:android:99d344908d01c379",
+        "android_client_info": {
+          "package_name": "com.example.moodplusv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63041476684-8edfcbp2bl20ek8lhqspd3j7raj9g5ip.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.moodplusv2",
+            "certificate_hash": "020c9a7e6abfc4058e6464a23dac3a0a667f3965"
+          }
+        },
+        {
+          "client_id": "63041476684-eqetombj8lae6touunogdn9ab1cb7oop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqFHtpINevKBemqECpkMhsGob6Lfjglu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63041476684-eqetombj8lae6touunogdn9ab1cb7oop.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

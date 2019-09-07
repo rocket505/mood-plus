@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mood Plus</string>
+    <string name="Discover" size="18dp">Discover</string>
+    <string name="action_settings">Settings</string>
+</resources>
